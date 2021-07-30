@@ -1,0 +1,2 @@
+com/fashionPinUp/book/springboot/web/HelloControllerTest.java
+ com.fashionPinUp.book.springboot.web.HelloControllerTest
